@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram id="yyJCg45JmMv-zP9A26xm" name="SAP_Task_Center_L0">
-    <mxGraphModel dx="2303" dy="1441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2492" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
           <mxGeometry x="-977" y="-466.75" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vBPXW9oMOhDfNp0NCbdv-15" value="&lt;font face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Subaccount&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="-803.45" y="-664.74" width="120" height="30" as="geometry" />
+          <mxGeometry x="-792" y="-616.74" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vBPXW9oMOhDfNp0NCbdv-16" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-957" y="-675.74" width="80" height="80.00000000000001" as="geometry" />
